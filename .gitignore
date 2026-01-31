@@ -1,0 +1,10 @@
+# Python virtual environments
+venv/
+__pycache__/
+
+# Recon-ng framework (external tool)
+recon-ng/
+
+# OS junk
+.DS_Store
+
